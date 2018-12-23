@@ -91,8 +91,8 @@ deploy:
 # Algolia Search API Key
 algolia:
   applicationID: 'AAT03GNZE0'
-  apiKey: '3f986131090bed5763cca0e4495f2c4b'
-  adminApiKey: '92b49ae06d8ca0179aa1406da518feb6'
+  apiKey: 'myapiKey'
+  adminApiKey: 'myadminApiKey'
   indexName: 'ewan_home'
   chunkSize: 5000
   fields:
